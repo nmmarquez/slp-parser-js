@@ -118,9 +118,9 @@ export const States = {
 };
 
 export const Timers = {
-  PUNISH_RESET_FRAMES: 45,
-  RECOVERY_RESET_FRAMES: 45,
-  COMBO_STRING_RESET_FRAMES: 45,
+  PUNISH_RESET_FRAMES: 90,
+  RECOVERY_RESET_FRAMES: 90,
+  COMBO_STRING_RESET_FRAMES: 90,
 };
 
 export const Frames = {
